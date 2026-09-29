@@ -1,0 +1,6 @@
+{
+  "name": "CricVoice Live",
+  "description": "Real-Time Cultural Broadcasts, Tailored by AI - Multilingual Cricket Commentary Platform with 22 Indian languages, dialects, and commentary personas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
